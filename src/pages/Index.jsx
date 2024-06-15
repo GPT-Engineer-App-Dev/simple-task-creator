@@ -12,6 +12,7 @@ const Index = () => {
       <VStack spacing={4}>
         <Text fontSize="2xl">Your Blank Canvas</Text>
         <Text>Chat with the agent to start making edits.</Text>
+        <Text>foo</Text>
       </VStack>
     </Container>
   );
